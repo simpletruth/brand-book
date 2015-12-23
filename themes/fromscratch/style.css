@@ -1,0 +1,29 @@
+/*
+Theme Name: From Scratch
+Theme URI: n/a
+Author: Greg Ochab
+Author URI: http://ochab.us
+*/
+
+body {
+	margin: 0;
+}
+
+
+header.header {
+	background-color: #111;
+	padding: 1em;
+}
+
+.menu {
+	overflow: hidden;
+}
+
+.menu > ul > .page_item {
+	float: left;
+	margin: 1em;
+}
+
+.menu a {
+	color: #fff;
+}
